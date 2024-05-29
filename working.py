@@ -320,7 +320,7 @@ def main():
     
 if __name__ == "__main__":
     #save_state(0, 1,[5,5,5],3)
-    
+    print("welcome")
     main()
 
 
