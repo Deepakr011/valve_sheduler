@@ -1,7 +1,6 @@
 import time
 from machine import Pin,I2C
 import ujson as json
-import sys
 import os
 import utime
 from lcd_api import LcdApi
